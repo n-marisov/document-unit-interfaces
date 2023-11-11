@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\AggregateNotNull;
 
 use Maris\Interfaces\Document\Aggregate\InnNumberAggregateInterface;
-use Maris\Interfaces\Document\Unit\InnNumberInterface;
+use Maris\Interfaces\Document\Model\InnNumberInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать ИНН

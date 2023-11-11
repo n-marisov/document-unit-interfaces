@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\PaymentAccountBankAggregateInterface;
-use Maris\Interfaces\Document\Unit\PaymentAccountBankInterface;
+use Maris\Interfaces\Document\Model\PaymentAccountBankInterface;
 
 /***
  * Интерфейс для форматирования объекта Расчетный счет как в документе.

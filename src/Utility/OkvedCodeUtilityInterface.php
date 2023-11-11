@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Utility;
 
 use Maris\Interfaces\Document\Formatter\OkvedCodeFormatterInterface;
-use Maris\Interfaces\Document\Unit\OkvedCodeInterface;
+use Maris\Interfaces\Document\Model\OkvedCodeInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 

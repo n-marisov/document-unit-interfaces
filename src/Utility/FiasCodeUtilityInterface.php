@@ -4,7 +4,7 @@ namespace Maris\Interfaces\Document\Utility;
 
 
 use Maris\Interfaces\Document\Formatter\FiasCodeFormatterInterface;
-use Maris\Interfaces\Document\Unit\FiasCodeInterface;
+use Maris\Interfaces\Document\Model\FiasCodeInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 

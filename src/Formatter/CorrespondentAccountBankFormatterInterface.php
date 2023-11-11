@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\CorrespondentAccountBankAggregateInterface;
-use Maris\Interfaces\Document\Unit\CorrespondentAccountBankInterface;
+use Maris\Interfaces\Document\Model\CorrespondentAccountBankInterface;
 
 /***
  * Интерфейс для форматирования объекта БИК как в документе.

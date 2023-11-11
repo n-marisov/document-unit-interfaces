@@ -2,7 +2,7 @@
 
 namespace Maris\Interfaces\Document\Aggregate;
 
-use Maris\Interfaces\Document\Unit\OgrnNumberInterface;
+use Maris\Interfaces\Document\Model\OgrnNumberInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать БИК

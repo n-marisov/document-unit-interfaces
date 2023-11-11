@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Utility;
 
 use Maris\Interfaces\Document\Formatter\PassportSeriesNumberFormatterInterface;
-use Maris\Interfaces\Document\Unit\PassportSeriesNumberInterface;
+use Maris\Interfaces\Document\Model\PassportSeriesNumberInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 

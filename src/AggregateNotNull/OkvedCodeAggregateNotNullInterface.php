@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\AggregateNotNull;
 
 use Maris\Interfaces\Document\Aggregate\OkvedCodeAggregateInterface;
-use Maris\Interfaces\Document\Unit\OkvedCodeInterface;
+use Maris\Interfaces\Document\Model\OkvedCodeInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать ОКВЕД код

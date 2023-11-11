@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\KppAggregateInterface;
-use Maris\Interfaces\Document\Unit\KppInterface;
+use Maris\Interfaces\Document\Model\KppInterface;
 
 /***
  * Интерфейс для форматирования объекта КПП как в документе.

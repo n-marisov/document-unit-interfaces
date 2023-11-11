@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Utility;
 
 use Maris\Interfaces\Document\Formatter\KladrCodeFormatterInterface;
-use Maris\Interfaces\Document\Unit\KladrCodeInterface;
+use Maris\Interfaces\Document\Model\KladrCodeInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 

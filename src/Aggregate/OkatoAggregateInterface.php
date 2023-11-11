@@ -2,7 +2,7 @@
 
 namespace Maris\Interfaces\Document\Aggregate;
 
-use Maris\Interfaces\Document\Unit\OkatoInterface;
+use Maris\Interfaces\Document\Model\OkatoInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать ОКАТО

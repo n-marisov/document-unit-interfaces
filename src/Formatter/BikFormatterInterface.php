@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\BikAggregateInterface;
-use Maris\Interfaces\Document\Unit\BikInterface;
+use Maris\Interfaces\Document\Model\BikInterface;
 
 /***
  * Интерфейс для форматирования объекта БИК как в документе.

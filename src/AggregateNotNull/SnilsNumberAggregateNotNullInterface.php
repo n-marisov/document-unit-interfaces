@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\AggregateNotNull;
 
 use Maris\Interfaces\Document\Aggregate\SnilsNumberAggregateInterface;
-use Maris\Interfaces\Document\Unit\SnilsNumberInterface;
+use Maris\Interfaces\Document\Model\SnilsNumberInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать

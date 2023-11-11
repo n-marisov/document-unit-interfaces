@@ -4,7 +4,7 @@ namespace Maris\Interfaces\Document\Utility;
 
 
 use Maris\Interfaces\Document\Formatter\OgrnNumberFormatterInterface;
-use Maris\Interfaces\Document\Unit\OgrnNumberInterface;
+use Maris\Interfaces\Document\Model\OgrnNumberInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 

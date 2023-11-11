@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\OkvedCodeAggregateInterface;
-use Maris\Interfaces\Document\Unit\OkvedCodeInterface;
+use Maris\Interfaces\Document\Model\OkvedCodeInterface;
 
 /***
  * Интерфейс для форматирования объекта ОКВЕД код как в документе.

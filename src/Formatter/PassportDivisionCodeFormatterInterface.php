@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\PassportDivisionCodeAggregateInterface;
-use Maris\Interfaces\Document\Unit\PassportDivisionCodeInterface;
+use Maris\Interfaces\Document\Model\PassportDivisionCodeInterface;
 
 /***
  * Интерфейс для форматирования объекта БИК как в документе.

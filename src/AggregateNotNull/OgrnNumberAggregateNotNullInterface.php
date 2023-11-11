@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\AggregateNotNull;
 
 use Maris\Interfaces\Document\Aggregate\OgrnNumberAggregateInterface;
-use Maris\Interfaces\Document\Unit\OgrnNumberInterface;
+use Maris\Interfaces\Document\Model\OgrnNumberInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать ОРГН

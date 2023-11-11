@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\FiasCodeAggregateInterface;
-use Maris\Interfaces\Document\Unit\FiasCodeInterface;
+use Maris\Interfaces\Document\Model\FiasCodeInterface;
 
 /***
  * Интерфейс для форматирования объекта ФИАС как в документе.

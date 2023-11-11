@@ -2,7 +2,7 @@
 
 namespace Maris\Interfaces\Document\Aggregate;
 
-use Maris\Interfaces\Document\Unit\KppInterface;
+use Maris\Interfaces\Document\Model\KppInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать КПП

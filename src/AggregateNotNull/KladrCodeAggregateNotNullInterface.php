@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\AggregateNotNull;
 
 use Maris\Interfaces\Document\Aggregate\KladrCodeAggregateInterface;
-use Maris\Interfaces\Document\Unit\KladrCodeInterface;
+use Maris\Interfaces\Document\Model\KladrCodeInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать КЛАДР код

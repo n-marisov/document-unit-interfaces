@@ -2,8 +2,8 @@
 
 namespace Maris\Interfaces\Document\Aggregate;
 
-use Maris\Interfaces\Document\Unit\BikInterface;
-use Maris\Interfaces\Document\Unit\OkvedCodeInterface;
+use Maris\Interfaces\Document\Model\BikInterface;
+use Maris\Interfaces\Document\Model\OkvedCodeInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать БИК

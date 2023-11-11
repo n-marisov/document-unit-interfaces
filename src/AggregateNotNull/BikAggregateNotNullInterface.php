@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\AggregateNotNull;
 
 use Maris\Interfaces\Document\Aggregate\BikAggregateInterface;
-use Maris\Interfaces\Document\Unit\BikInterface;
+use Maris\Interfaces\Document\Model\BikInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать БИК

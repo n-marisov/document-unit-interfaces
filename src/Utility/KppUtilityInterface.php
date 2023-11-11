@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Utility;
 
 use Maris\Interfaces\Document\Formatter\KppFormatterInterface;
-use Maris\Interfaces\Document\Unit\KppInterface;
+use Maris\Interfaces\Document\Model\KppInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 

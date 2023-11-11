@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\AggregateNotNull;
 
 use Maris\Interfaces\Document\Aggregate\PassportDivisionCodeAggregateInterface;
-use Maris\Interfaces\Document\Unit\PassportDivisionCodeInterface;
+use Maris\Interfaces\Document\Model\PassportDivisionCodeInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать

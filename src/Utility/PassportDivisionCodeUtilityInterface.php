@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Utility;
 
 use Maris\Interfaces\Document\Formatter\PassportDivisionCodeFormatterInterface;
-use Maris\Interfaces\Document\Unit\PassportDivisionCodeInterface;
+use Maris\Interfaces\Document\Model\PassportDivisionCodeInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 

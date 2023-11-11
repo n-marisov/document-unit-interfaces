@@ -2,7 +2,7 @@
 
 namespace Maris\Interfaces\Document\Aggregate;
 
-use Maris\Interfaces\Document\Unit\PaymentAccountBankInterface;
+use Maris\Interfaces\Document\Model\PaymentAccountBankInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать

@@ -4,8 +4,8 @@ namespace Maris\Interfaces\Document\Utility;
 
 use Maris\Interfaces\Document\Formatter\BikFormatterInterface;
 use Maris\Interfaces\Document\Formatter\PostalIndexFormatterInterface;
-use Maris\Interfaces\Document\Unit\BikInterface;
-use Maris\Interfaces\Document\Unit\PostalIndexInterface;
+use Maris\Interfaces\Document\Model\BikInterface;
+use Maris\Interfaces\Document\Model\PostalIndexInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 

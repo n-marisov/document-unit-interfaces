@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\OkatoAggregateInterface;
-use Maris\Interfaces\Document\Unit\OkatoInterface;
+use Maris\Interfaces\Document\Model\OkatoInterface;
 
 /***
  * Интерфейс для форматирования объекта ОКАТО как в документе.

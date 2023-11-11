@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\PostalIndexAggregateInterface;
-use Maris\Interfaces\Document\Unit\PostalIndexInterface;
+use Maris\Interfaces\Document\Model\PostalIndexInterface;
 
 /***
  * Интерфейс для форматирования объекта почтовый индекс как в документе.

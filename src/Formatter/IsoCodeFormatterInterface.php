@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\IsoCodeAggregateInterface;
-use Maris\Interfaces\Document\Unit\IsoCodeInterface;
+use Maris\Interfaces\Document\Model\IsoCodeInterface;
 
 /***
  * Интерфейс для форматирования объекта ISO-код как в документе.

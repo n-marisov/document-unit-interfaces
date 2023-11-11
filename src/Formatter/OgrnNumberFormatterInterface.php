@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\OgrnNumberAggregateInterface;
-use Maris\Interfaces\Document\Unit\OgrnNumberInterface;
+use Maris\Interfaces\Document\Model\OgrnNumberInterface;
 
 /***
  * Интерфейс для форматирования объекта ОГРН как в документе.

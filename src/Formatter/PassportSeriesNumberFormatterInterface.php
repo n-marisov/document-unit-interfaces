@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\PassportSeriesNumberAggregateInterface;
-use Maris\Interfaces\Document\Unit\PassportSeriesNumberInterface;
+use Maris\Interfaces\Document\Model\PassportSeriesNumberInterface;
 
 /***
  * Интерфейс для форматирования объекта БИК как в документе.

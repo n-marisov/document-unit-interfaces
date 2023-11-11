@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\KladrCodeAggregateInterface;
-use Maris\Interfaces\Document\Unit\KladrCodeInterface;
+use Maris\Interfaces\Document\Model\KladrCodeInterface;
 
 /***
  * Интерфейс для форматирования объекта КЛАДР как в документе.

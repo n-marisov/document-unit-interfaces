@@ -2,7 +2,7 @@
 
 namespace Maris\Interfaces\Document\Aggregate;
 
-use Maris\Interfaces\Document\Unit\FiasCodeInterface;
+use Maris\Interfaces\Document\Model\FiasCodeInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать ФИАС код

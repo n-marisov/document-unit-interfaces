@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Utility;
 
 use Maris\Interfaces\Document\Formatter\InnNumberFormatterInterface;
-use Maris\Interfaces\Document\Unit\InnNumberInterface;
+use Maris\Interfaces\Document\Model\InnNumberInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 

@@ -2,9 +2,9 @@
 
 namespace Maris\Interfaces\Document\Aggregate;
 
-use Maris\Interfaces\Document\Unit\BikInterface;
-use Maris\Interfaces\Document\Unit\PassportDivisionCodeInterface;
-use Maris\Interfaces\Document\Unit\PassportSeriesNumberInterface;
+use Maris\Interfaces\Document\Model\BikInterface;
+use Maris\Interfaces\Document\Model\PassportDivisionCodeInterface;
+use Maris\Interfaces\Document\Model\PassportSeriesNumberInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать

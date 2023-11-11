@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Formatter;
 
 use Maris\Interfaces\Document\Aggregate\SnilsNumberAggregateInterface;
-use Maris\Interfaces\Document\Unit\SnilsNumberInterface;
+use Maris\Interfaces\Document\Model\SnilsNumberInterface;
 
 /***
  * Интерфейс для форматирования объекта номер СНИЛС как в документе.

@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\AggregateNotNull;
 
 use Maris\Interfaces\Document\Aggregate\KppAggregateInterface;
-use Maris\Interfaces\Document\Unit\KppInterface;
+use Maris\Interfaces\Document\Model\KppInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать БИК

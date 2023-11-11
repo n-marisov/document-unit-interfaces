@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\AggregateNotNull;
 
 use Maris\Interfaces\Document\Aggregate\CorrespondentAccountBankAggregateInterface;
-use Maris\Interfaces\Document\Unit\CorrespondentAccountBankInterface;
+use Maris\Interfaces\Document\Model\CorrespondentAccountBankInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать БИК

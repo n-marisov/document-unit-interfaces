@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\AggregateNotNull;
 
 use Maris\Interfaces\Document\Aggregate\PostalIndexAggregateInterface;
-use Maris\Interfaces\Document\Unit\PostalIndexInterface;
+use Maris\Interfaces\Document\Model\PostalIndexInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать

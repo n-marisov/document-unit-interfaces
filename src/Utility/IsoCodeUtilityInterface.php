@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Utility;
 
 use Maris\Interfaces\Document\Formatter\IsoCodeFormatterInterface;
-use Maris\Interfaces\Document\Unit\IsoCodeInterface;
+use Maris\Interfaces\Document\Model\IsoCodeInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 

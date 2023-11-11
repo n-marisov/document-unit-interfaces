@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document;
 
 use Maris\Interfaces\Document\AggregateNotNull\BikAggregateNotNullInterface;
-use Maris\Interfaces\Document\Unit\BikInterface;
+use Maris\Interfaces\Document\Model\BikInterface;
 use Stringable;
 
 /***

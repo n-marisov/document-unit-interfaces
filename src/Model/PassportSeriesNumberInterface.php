@@ -1,6 +1,6 @@
 <?php
 
-namespace Maris\Interfaces\Document\Unit;
+namespace Maris\Interfaces\Document\Model;
 
 use Maris\Interfaces\Document\UnitInterface;
 

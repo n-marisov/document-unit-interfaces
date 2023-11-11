@@ -2,7 +2,7 @@
 
 namespace Maris\Interfaces\Document\Aggregate;
 
-use Maris\Interfaces\Document\Unit\IsoCodeInterface;
+use Maris\Interfaces\Document\Model\IsoCodeInterface;
 
 /***
  * Интерфейс объекта которой может хранить или генерировать ISO-код

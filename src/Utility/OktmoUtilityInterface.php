@@ -3,7 +3,7 @@
 namespace Maris\Interfaces\Document\Utility;
 
 use Maris\Interfaces\Document\Formatter\OktmoFormatterInterface;
-use Maris\Interfaces\Document\Unit\OktmoInterface;
+use Maris\Interfaces\Document\Model\OktmoInterface;
 use Maris\Interfaces\Document\UnitUtilityInterface;
 use Stringable;
 
