@@ -1,0 +1,22 @@
+{
+  "name": "maris/document-unit-interfaces",
+  "description": "Набор интерфейсов определяющий правило работы с объектами документов и номеров документов РФ.",
+  "license": "MIT",
+  "version": "0.0.1",
+  "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "Марисов Николай Андреевич",
+      "email": "marisov123456789@mail.ru"
+    }
+  ],
+  "require": {
+      "php": ">= 8.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Maris\\Interfaces\\Document\\": "src/"
+    }
+  }
+}
