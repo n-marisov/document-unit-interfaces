@@ -2,7 +2,7 @@
   "name": "maris/document-unit-interfaces",
   "description": "Набор интерфейсов определяющий правило работы с объектами документов и номеров документов РФ.",
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "symfony-bundle",
   "authors": [
     {

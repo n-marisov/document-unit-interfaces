@@ -34,7 +34,7 @@ interface InnNumberUtilityInterface extends UnitUtilityInterface, InnNumberForma
     public function isLegal( InnNumberInterface|InnNumberAggregateNotNullInterface $inn ):bool;
 
     /***
-     * Указывает что ИНН принадлежит субъекту Российской организации.
+     * Указывает что ИНН принадлежит субъекту Российской Федерации.
      * Иными словами принадлежит не зарубежной организации.
      * Возвращает правильный результат для Юр лиц получивших
      * ИНН не раньше 01.01.2005г.
@@ -56,8 +56,11 @@ interface InnNumberUtilityInterface extends UnitUtilityInterface, InnNumberForma
      * Возвращает порядковый номер постановки на учет.
      * Для ФИ и ИП с 5 по 10 включительно цифры.
      * Для Юр лица с 5 по 9 включительно цифры.
+     * Возвращает значение int потому что
+     * порядковый номер записи интерпретируется
+     * как число и с ним возможны сравнения на  (>|<|=).
      * @param InnNumberInterface|InnNumberAggregateNotNullInterface $inn
-     * @return string
+     * @return int
      */
-    public function position( InnNumberInterface|InnNumberAggregateNotNullInterface $inn ):string;
+    public function position( InnNumberInterface|InnNumberAggregateNotNullInterface $inn ):int;
 }
